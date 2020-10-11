@@ -1,9 +1,4 @@
-#BGR to HSV , HSV - hue saturation value / can easily compare
-#minimum enclosing circle - minimum possible circle for the object area
-#moments to find center of the area - objects center
-#drawing circle - draw the minimum enclosing circle
-#block diagram: reading from camera -> pre-processing image -> finding counters -> drawing minimum enclosing circle
-# -> finding center of counter area -> drawing circle and center -> direction based on radius and position
+
 import time
 
 import imutils
