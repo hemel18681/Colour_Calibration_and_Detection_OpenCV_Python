@@ -1,7 +1,7 @@
 # finding hsv range of target object(pen)
 import cv2
 import numpy as np
-import time
+
 
 
 # A required callback method that goes into the trackbar function.
